@@ -1,8 +1,8 @@
 #### Software Architecture and Platforms - a.y. 2023-2024
 
 ### Links to the repositories:
-- Github repository to [Assignment-02](https://github.com/giulia-nardicchia/sap-assignments/tree/main/sap-assignment-02)
-- Github repository to [Assignment-03](https://github.com/giulia-nardicchia/sap-assignments/tree/main/sap-assignment-03)
+- Github repository to [Assignment-02](https://github.com/GiuliaNardicchia/sap-assignments/tree/main/sap-assignment-02)
+- Github repository to [Assignment-03](https://github.com/GiuliaNardicchia/sap-assignments/tree/main/sap-assignment-03)
 
 ---
 
